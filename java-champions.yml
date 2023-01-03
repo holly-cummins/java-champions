@@ -530,6 +530,8 @@ members:
     city: London
     social:
       twitter: https://twitter.com/holly_cummins
+      mastodon: https://hachyderm.io/@holly_cummins
+      linkedin: https://www.linkedin.com/in/holly-k-cummins/
     avatar: images/avatars/holly_cummins.png
   - name: Ian F. Darwin
     year: 2005
